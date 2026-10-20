@@ -1,0 +1,6 @@
+{
+  "name": "CheckDisplay",
+  "description": "Sleek and interactive dashboard for NFC-based staff attendance and asset monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
